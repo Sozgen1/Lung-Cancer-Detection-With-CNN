@@ -1,7 +1,7 @@
 # Lung-Cancer-Detection-With-CNN
 This project implements an efficient convolutional neural network (EFFI-CNN) for detecting lung cancer using CT scan images. The goal is to improve the accuracy and speed of lung cancer detection, contributing to early diagnosis and potentially extending patient life expectancy.
 Overview
-The EFFI-CNN model is designed with seven layers:
+The EFFI-CNN model is designed with seven layers
 
 Convolution Layer
 Max-Pool Layer
