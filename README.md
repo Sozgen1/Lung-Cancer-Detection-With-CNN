@@ -4,12 +4,19 @@ Overview
 The EFFI-CNN model is designed with seven layers
 
 Convolution Layer
+
 Max-Pool Layer
+
 Convolution Layer
+
 Max-Pool Layer
+
 Fully Connected Layer
+
 Fully Connected Layer
+
 Soft-Max Layer
+
 The model utilizes lung CT scan images from the LIDC-IDRI and Mendeley datasets to identify cancerous tissues. The architecture leverages the strengths of convolutional layers to extract important features and fully connected layers for classification tasks.
 
 Architecture Details
